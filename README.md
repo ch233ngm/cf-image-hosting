@@ -1,3 +1,9 @@
+## 踩坑
+
+npm install 卡住 是因为没有sudo su
+
+wrangler使用见https://www.cnblogs.com/ElEGenT/p/16850931.html
+
 ## Cloudflare Image Hosting
 
 Free unlimited image hosting on Telegraph, deployed on Cloudflare.
